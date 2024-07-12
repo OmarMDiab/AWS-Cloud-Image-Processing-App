@@ -63,13 +63,15 @@ The app supports the following image processing operations:
     - For individual images, expand the section for each image and select an operation from the dropdown list.     
     - Or for applying the same operation to all images, select an operation from the sidebar under ***"Global Operations".***
 
-<div style="display: flex; justify-content: center; align-items: center;">
-<img src="https://github.com/OmarMDiab/AWS-Cloud-Image-Processing-App/blob/main/Client%20App/GIFS/GO.png" alt="Global_Operations!" height="400" />
-<img src="https://github.com/OmarMDiab/AWS-Cloud-Image-Processing-App/blob/main/Client%20App/GIFS/Image_Card.png" alt="Image_Card" height="400" />
-</div>
+ <div style="display: flex; justify-content: center; align-items: center;">
+    <p align="center">
+        <img src="https://github.com/OmarMDiab/AWS-Cloud-Image-Processing-App/blob/main/Client%20App/GIFS/GO.png" alt="Global_Operations!" height="400" />
+        <img src="https://github.com/OmarMDiab/AWS-Cloud-Image-Processing-App/blob/main/Client%20App/GIFS/Image_Card.png" alt="Image_Card" height="400" />
+        </p>
+    </div>
 
 
-3. **Process Images**:
+4. **Process Images**:
     - Click the ***"Process Image"*** button for individual images or ***"Process All Images"*** for global operations.
     - The app will display the original and processed images side by side.
     - If the process is (completed successfully) you are expected to see this confirmation: -
@@ -77,12 +79,12 @@ The app supports the following image processing operations:
        <img src="https://github.com/OmarMDiab/AWS-Distributed-Computing-Server_Client-App/blob/main/Client%20App/GIFS/Mission%20Accomplished.gif"/>
     </p>
     
-4. **Download Images**:
+5. **Download Images**:
     - After processing, you can download each processed image by clicking the ***"Download Processed Image"*** button.
     - Alternatively, download all processed images at once by clicking the ***"Download All Images"*** button from the sidebar.
 <p align="center">
-<img src="https://github.com/OmarMDiab/AWS-Cloud-Image-Processing-App/blob/main/Client%20App/GIFS/Download%20Completed.png" alt="Downloads" width="600" />
-<img src="https://github.com/OmarMDiab/AWS-Cloud-Image-Processing-App/blob/main/Client%20App/GIFS/Out_Folder.png" alt="Downloads" width="600" />
+<img src="https://github.com/OmarMDiab/AWS-Cloud-Image-Processing-App/blob/main/Client%20App/GIFS/Download%20Completed.png" alt="Downloads" width="500" />
+<img src="https://github.com/OmarMDiab/AWS-Cloud-Image-Processing-App/blob/main/Client%20App/GIFS/Out_Folder.png" alt="Downloads" width="500" />
 </p>
 
 5. **Close Connection**:
