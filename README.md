@@ -1,4 +1,4 @@
-# Image Processing App
+# Cloud Image Processing App
 
 ## Overview
 
