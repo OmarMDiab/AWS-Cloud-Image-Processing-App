@@ -1,6 +1,6 @@
 # Cloud Image Processing App
 
-The Image Processing App is a Streamlit-based web application that allows users to upload images and apply various image processing operations. The app connects to a remote server to process the images and provides users with the ability to download the processed images.
+The Image Processing App is a **Cloud-based** web application that allows users to upload images and apply various image processing operations. The app connects to a remote server to process the images and provides users with the ability to download the processed images.
 
 ## Sample Videos
 - [GUI User Guide](https://drive.google.com/file/d/1xMva0H6TjYCj3Jngo-TJj_DvIYubBR6E/view "Streamlit APP GUI")
@@ -57,25 +57,36 @@ The app supports the following image processing operations:
 ## Usage
 
 1. **Upload Images**:
-    - Click on the "Upload Image(s)" button to upload one or more images.
+    - Click on the ***"Upload Image(s)"*** button to upload one or more images.
     
 2. **Select Operations**:
-    - For individual images, expand the section for each image and select an operation from the dropdown list.
-    - For applying the same operation to all images, select an operation from the sidebar under "Global Operations".
+    - For individual images, expand the section for each image and select an operation from the dropdown list.     
+    - Or for applying the same operation to all images, select an operation from the sidebar under ***"Global Operations".***
+
+<div style="display: flex; justify-content: center; align-items: center;">
+<img src="https://github.com/OmarMDiab/AWS-Cloud-Image-Processing-App/blob/main/Client%20App/GIFS/GO.png" alt="Global_Operations!" height="600" />
+<img src="https://github.com/OmarMDiab/AWS-Cloud-Image-Processing-App/blob/main/Client%20App/GIFS/Image_Card.png" alt="Image_Card" height="600" />
+</div>
+
 
 3. **Process Images**:
-    - Click the "Process Image" button for individual images or "Process All Images" for global operations.
+    - Click the ***"Process Image"*** button for individual images or ***"Process All Images"*** for global operations.
     - The app will display the original and processed images side by side.
-    - If the process is completed you are expected to see this confirmation: -
-      
-    ![Bye_Gif](https://github.com/OmarMDiab/AWS-Distributed-Computing-Server_Client-App/blob/main/Client%20App/GIFS/Mission%20Accomplished.gif)
-
+    - If the process is (completed successfully) you are expected to see this confirmation: -
+   <p align="center">   
+       <img src="https://github.com/OmarMDiab/AWS-Distributed-Computing-Server_Client-App/blob/main/Client%20App/GIFS/Mission%20Accomplished.gif"/>
+    </p>
+    
 4. **Download Images**:
-    - After processing, you can download each processed image by clicking the "Download Processed Image" button.
-    - Alternatively, download all processed images at once by clicking the "Download All Images" button from the sidebar.
+    - After processing, you can download each processed image by clicking the ***"Download Processed Image"*** button.
+    - Alternatively, download all processed images at once by clicking the ***"Download All Images"*** button from the sidebar.
+<p align="center">
+<img src="https://github.com/OmarMDiab/AWS-Cloud-Image-Processing-App/blob/main/Client%20App/GIFS/Download%20Completed.png" alt="Downloads" width="600" />
+<img src="https://github.com/OmarMDiab/AWS-Cloud-Image-Processing-App/blob/main/Client%20App/GIFS/Out_Folder.png" alt="Downloads" width="600" />
+</p>
 
 5. **Close Connection**:
-    - To close the connection to the server, click the "Close Connection" button in the sidebar.
+    - To close the connection to the server and logout, Click the ***"Close Connection"*** button in the sidebar.
 
-## Thank you
+## *Thank you*
 ![Bye_Gif](https://github.com/OmarMDiab/AWS-Distributed-Computing-Server_Client-App/blob/main/Client%20App/GIFS/Close%20Connection.gif)
