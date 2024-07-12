@@ -64,8 +64,8 @@ The app supports the following image processing operations:
     - Or for applying the same operation to all images, select an operation from the sidebar under ***"Global Operations".***
 
 <div style="display: flex; justify-content: center; align-items: center;">
-<img src="https://github.com/OmarMDiab/AWS-Cloud-Image-Processing-App/blob/main/Client%20App/GIFS/GO.png" alt="Global_Operations!" height="600" />
-<img src="https://github.com/OmarMDiab/AWS-Cloud-Image-Processing-App/blob/main/Client%20App/GIFS/Image_Card.png" alt="Image_Card" height="600" />
+<img src="https://github.com/OmarMDiab/AWS-Cloud-Image-Processing-App/blob/main/Client%20App/GIFS/GO.png" alt="Global_Operations!" height="400" />
+<img src="https://github.com/OmarMDiab/AWS-Cloud-Image-Processing-App/blob/main/Client%20App/GIFS/Image_Card.png" alt="Image_Card" height="400" />
 </div>
 
 
